@@ -1,0 +1,8 @@
+bind_address=""
+listen_port=8989
+
+proxyprotocol_port=0
+
+assets_path="/app/assets"
+
+database_type="none"
