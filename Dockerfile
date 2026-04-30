@@ -6,7 +6,7 @@ RUN adduser -D -u 1000 appuser
 USER appuser
 
 # renovate-github-release: repo=librespeed/speedtest-go
-ARG SPEEDTEST_GO_VERSION="v1.1.5"
+ARG SPEEDTEST_GO_VERSION="v1.1.6"
 
 WORKDIR /app
 
